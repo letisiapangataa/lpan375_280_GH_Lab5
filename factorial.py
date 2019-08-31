@@ -1,2 +1,2 @@
-#def factorial(first, second): 
-#    return first % second
+def factorial(first, second): 
+    return first % second
