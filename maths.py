@@ -1,3 +1,12 @@
+'''
+Letisia Tatimoa Pangata'a
+COMPSCI 280 - Lab 05 
+Student ID : 995182480
+
+- Taken from Lab 02.
+
+'''
+
 def factorial(first, second): 
     return first % second
 
